@@ -31,4 +31,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamozzie)](https://github.com/anuraghazra/github-readme-stats)
+### 💬 Get in Touch
+
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/said-alistanov-0b3771331/))  
+- [Email](mailto:alistanov.said@yandex.ru)   
+
+---
