@@ -33,7 +33,6 @@
 
 ### 💬 Get in Touch
 
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/said-alistanov-0b3771331/))  
-- [Email](mailto:alistanov.said@yandex.ru)   
+- [Email](mailto:saidalistanov05@gmail.com)   
 
 ---
