@@ -23,6 +23,7 @@
 
 ### 🔭 What I'm Working On
 - Building a **game review platform** where users can rate and review games.
+- Building an **online storage of user credentials**.
 
 ### 🌱 I'm Currently Learning
 - Advanced **Docker workflows** and container orchestration  
